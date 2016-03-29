@@ -1,8 +1,10 @@
 - clone Repositories
+
  git clone url  当前目录中
  git clone url newdir 新建newdir目录
 
-- 在整个git的操作流程中 file status 有 
+- 在整个git的操作流程中 file status 有
+
  untracked(未跟踪) 也就是本地新文件  
  unmodified(未修改) 本地与服务器一致 
  modified (已修改) 本地与服务器不一致
