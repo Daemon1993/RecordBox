@@ -19,9 +19,12 @@
 
 
   进入当前项目 根目录 
+  
   git status 列举
   新建一个文件 修改一个原始文件 git status 列表如下
+  
   GitUse Untracked 
+  
   README.md modified 已修改
   
 ![文件状态列表](http://upload-images.jianshu.io/upload_images/831873-08ee15e8c362a397.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -29,6 +32,7 @@
 - 添加未跟踪的文件到暂存区域
 
  上面显示 changes to be commited 下的所有文件可以push到服务器了
+ 
   git add GitUse  
   
 ![git add之后](http://upload-images.jianshu.io/upload_images/831873-2d42d69d124044c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
