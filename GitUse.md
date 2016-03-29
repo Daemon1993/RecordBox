@@ -12,7 +12,7 @@
  
  modified (已修改) 本地与服务器不一致
  
- staged (暂存区域) 只有在这个区域 才能commit服务器
+ staged (暂存区域) 只有在这个区域 才能commit
 
 - 查看当前文件的状态
 ![文件状态 来自 git.oschaina.net](http://upload-images.jianshu.io/upload_images/831873-0afad151acf869fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
