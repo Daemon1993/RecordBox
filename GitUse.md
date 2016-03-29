@@ -90,3 +90,26 @@ git rm name
 ![push 服务器](http://upload-images.jianshu.io/upload_images/831873-f3675736dc137a6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
  
+- 新建分支 转到分支开发
+
+  git branch dev 
+
+  git checkout dev 
+
+  
+![新建分支 转移分支](http://upload-images.jianshu.io/upload_images/831873-39ceeba855ab23e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  
+- 分支做完了 然后合并
+
+ git merge 需要合并的分支名
+ 
+
+![合并分支](http://upload-images.jianshu.io/upload_images/831873-e6d10a3bc0c7cd3c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 合并分支后 这个分支如果没有其他作用就可以删除 比如修复bug后
+
+ git branch -d 分支名
+ 
+![删除无价值分支](http://upload-images.jianshu.io/upload_images/831873-14c6c2537ffec654.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+ 
